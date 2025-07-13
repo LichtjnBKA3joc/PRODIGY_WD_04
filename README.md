@@ -19,7 +19,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript to s
 - GitHub – Hosting and version control  
 
 ## GitHub Repository
-[Repository link] (https://github.com/LichtjnBKA3joc/PRODIGY_WD_04) Thank you to the team. Looking forward to building more!
+[Repository link](https://github.com/LichtjnBKA3joc/PRODIGY_WD_04) Thank you to the team. Looking forward to building more!
 
 ## Tags
 
